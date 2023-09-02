@@ -1,4 +1,4 @@
-const staticWeplex = "weplex-v1";
+const staticWeplex = "weplex-v2";
 const assets = [
   "/",
   "/index.html",
