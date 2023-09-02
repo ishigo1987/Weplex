@@ -1,6 +1,6 @@
 {
-    "name": "Weplex App",
-    "short_name": "Weplex App",
+    "name": "Weplex",
+    "short_name": "Weplex",
     "scope": "./",
     "start_url": "index.html",
     "display": "standalone",
